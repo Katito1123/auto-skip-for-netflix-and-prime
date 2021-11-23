@@ -74,6 +74,9 @@ export const i18nMap = {
     next_epi: "A seguir",
     skip_recap: "Pular resumo",
     skip_ads: "Pular",
+    skip_recap: "Pular o resumo",
+    skip_ads: "Pular OP",
+    skip_ads: "Pular ED",
   },
   de_DE: {
     next_epi: "Nächste",
